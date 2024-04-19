@@ -1,1 +1,3 @@
-x=8+15
+def summa (a,b):
+    x = a+b
+    return x
